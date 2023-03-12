@@ -1,0 +1,20 @@
+.productbtn {
+    margin: 10px;
+}
+
+#photo {
+    width: 0;
+}
+
+.camera {
+    cursor: pointer;
+}
+.inp{
+    padding: 5px;
+}
+/* //// */
+
+.nud{
+    /* background-color: aqua;
+    border-radius: 19%; */
+}
